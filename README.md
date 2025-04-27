@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nagy osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagy osman" height="30" width="40" /></a>
-<a href="https://fb.com/nagy osman osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nagy osman osman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagy-osman-519330320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagy-osman-519330320/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/nagyosman.osman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nagyosman.osman/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
